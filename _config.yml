@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Sebastian Hienzsch"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sebastian Hienzsch"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sebastianhienzsch.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,16 +24,16 @@ repository               : "SebastianHienzsch/sebastianhienzsch.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sebastian Hienzsch"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Empirical Macroeconomist"
+  location         : "Göttingen"
+  employer         : "University of Göttingen"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sebastian.hienzsch@uni-goettingen.de" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.uni-goettingen.de/de/sebastian+hienzsch/628160.html" # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/sebastian-hienzsch-360683216/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
